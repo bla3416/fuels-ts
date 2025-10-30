@@ -9,7 +9,7 @@
 [![npm](https://img.shields.io/npm/v/fuels)](https://www.npmjs.com/package/fuels)
 [![docs](https://img.shields.io/badge/docs-fuels.ts-brightgreen.svg?style=flat)](https://docs.fuel.network/docs/fuels-ts/)
 [![discord](https://img.shields.io/badge/chat%20on-discord-orange?&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/xfpK4Pe)
-
+fff
 # Resources
 
 The [documentation](https://docs.fuel.network/docs/fuels-ts/) site is your main stop for resources.
